@@ -1,7 +1,7 @@
 # **Bellabeat Capstone Project**
 ##### Author: **Paulo Escalante**
 ##### Date: **11 June 2022**
-##### *This is my capstone project to complete [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics#courses) course. Your feedback would be highly appreciated. :)*
+##### *This is my capstone project to complete the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics#courses) course. Your feedback would be highly appreciated. :)*
 
 ### **Introduction**
 
